@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTFOLIO</title>
+    <link rel="stylesheet" href="Portfolio.css">
+</head>
+<body> 
+    <div>
+      <nav>
+         <h1>Welcome to my Portfolio</h1>
+      </nav>
+    </div>
+
+   <div>
+    <button>
+      <p class="p1">Software Developer<p>
+    </button>
+   </div>
+
+   <div>
+     <p class="name"><span id="Brian">Brian</span> <span id="kabiru">Kabiru</span> <span id="kamau">Kamau</span</p>
+   </div>
+
+   <div>
+     <h2>About</h2>
+     <p class="description">I am a passionate Junior Software Engineer with a strong interest in building Modern User-Friendly and efficient Digital solutions. I am in pursue of a Diploma in Software Engineering and have a strong foundation of Software Engineering principals, Programming and Web development.
+     </p>
+  </div>
+
+  <div>
+    <h3>Skills</h3>
+    <p class="description2">
+      I have a strong foundation in technical skills such as HTML, CSS, JavaScript, Python, SQL, AI and Data Automation and Canva enabling me to develop responsive Web Applications, design intuitive User-Interfaces and solve real-world problems through technology Beyond coding, I value creativity, attention to detail and teamwork. My Goal is to grow into a professional Software Engineer, contribute into innovative projects and develop technology that improves everyday life.
+   </p>
+  </div>
+
+  <div>
+    <h4>Work</h4>
+    <p class="description2">
+      Currently I am engaged with a team of AI Data Automists where i perform Data Annotation as a Part-Time job. I also create well graphics designed Posters, Flyers and Menus for a market of clients in freelancing.
+   </p>
+ </div>
+</body>
+</html>
